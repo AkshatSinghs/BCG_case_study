@@ -1,0 +1,17 @@
+input_locations:
+    primary_person: Data/Primary_Person_use.csv
+    units: Data/Units_use.csv
+    damages: Data/Damages_use.csv
+    charges: Data/Charges_use.csv
+
+output_locations:
+    output_1: Code_Output/Analysis_1
+    output_2: Code_Output/Analysis_2
+    output_3: Code_Output/Analysis_3
+    output_4: Code_Output/Analysis_4
+    output_5: Code_Output/Analysis_5
+    output_6: Code_Output/Analysis_6
+    output_7: Code_Output/Analysis_7
+    output_8: Code_Output/Analysis_8
+    output_9: Code_Output/Analysis_9
+    output_10: Code_Output/Analysis_10
